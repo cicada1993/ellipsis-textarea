@@ -1,4 +1,6 @@
 # ellipsis-textarea
+基于textarea实现的文本省略vue组件，支持设置最大显示行数
+
 - ellipsis text in a smart way
 - support limiting rows
 
