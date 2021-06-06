@@ -1,5 +1,8 @@
 # ellipsis-textarea
 ellipsis text in a smart way
+
+<img src="/192.168.1.3_8080_(iPhone%206_7_8).png" width = "35%"  alt="" align=center />
+
 ## install
 ```
 npm install ellipsis-textarea --save
