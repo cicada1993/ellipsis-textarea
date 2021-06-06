@@ -2,7 +2,8 @@
 - ellipsis text in a smart way
 - support limiting rows
 
-<img src="/192.168.1.3_8080_(iPhone%206_7_8).png" width = "35%"  alt="" align=center />
+![image](https://user-images.githubusercontent.com/31173307/120924607-0a832f00-c707-11eb-9f17-2ceb331ba8f8.png)
+
 
 ## install
 ```
