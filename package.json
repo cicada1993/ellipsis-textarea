@@ -1,0 +1,68 @@
+{
+  "name": "ellipsis-textarea",
+  "version": "0.1.0",
+  "private": false,
+  "description": "基于textarea的可按行省略的文本组件",
+  "main": "./dist/EllipsisTextarea.common.js",
+  "author": "ttjbs<2497781917@qq.com>",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint",
+    "lib": "vue-cli-service build --target lib --name EllipsisTextarea ./src/lib.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cicada1993/ellipsis-textarea"
+  },
+  "bugs": {
+    "url": "https://github.com/cicada1993/ellipsis-textarea/issues"
+  },
+  "homepage": "https://github.com/cicada1993/ellipsis-textarea",
+  "keywords": [
+    "vue",
+    "vuejs",
+    "ellipsis",
+    "textarea",
+    "ellipsis-textarea"
+  ],
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {
+      "generator-star-spacing": "off",
+      "no-tabs": "off",
+      "no-unused-vars": "off",
+      "no-console": "off",
+      "no-irregular-whitespace": "off",
+      "no-debugger": "off"
+    }
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
