@@ -1,6 +1,6 @@
 {
   "name": "ellipsis-textarea",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "description": "基于textarea的可按行省略的文本组件",
   "main": "./dist/EllipsisTextarea.common.js",
