@@ -1,5 +1,5 @@
 # ellipsis-textarea
-
+ellipsis text in a smart way
 ## install
 ```
 npm install ellipsis-textarea --save
